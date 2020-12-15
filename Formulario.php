@@ -15,7 +15,7 @@
     </header>
     <main>
         <div class="container">
-            <form action="registrarUsuarios.php" method="POST">
+            <form action="registrarProductos.php" method="POST">
                 <h1>REGISTRO DE PRODUCTOS</h1>
 
                 <div class="row">
